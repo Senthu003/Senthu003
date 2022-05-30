@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 # Reach me
 - Public profile on <a href="https://www.smartr.me/me/senthujan.balasingham">Smatr</a>
 - Learning in public on <a href="https://twitter.com/Senthu_lk">Twitter</a>
-- My professional <a="https://www.linkedin.com/in/senthujan-balasingham-32334439/">LinkedIn</a> profile
+- My professional <a href="https://www.linkedin.com/in/senthujan-balasingham-32334439/">LinkedIn</a> profile
