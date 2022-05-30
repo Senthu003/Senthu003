@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Senthu003
+#  👋 Hi, I’m Senthujan
 - 👀 I’m interested in Machine Learning and Computer Vision development projects.
 - 🌱 I have completed my masters in Artificial Intelligence (Machine Learning) from Liverpool John Moores University.
 - 💞️ I have very good knowledge of machine learning libraries such as Pandas, Matploitlib, Keras, Tensorflow, Kubernetes, Cuml, Scikit Learn, Numpy, Docker, Flask Web Application.
